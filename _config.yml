@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vinay Kumar
+title: Vinay Kumar's Blog
 email: vinay.singu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! Welcome to my blog. Here, I share my thoughts about Product Management,
@@ -27,12 +27,19 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.svinaykumar.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ProductIndian
-github_username:  vinaysingu
+#github_username:  vinaysingu
+linkedin_username: vinaysingu
+
+#New fields
+title-logo: /images/logo.png
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+
+plugins:
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Namaskaram _/\\_ 
+Namaskaram _/\\\_ 
 
 I am Vinay Kumar. I have 11+ years experience in Software Industry with 5+ years experience in Product Management.
 

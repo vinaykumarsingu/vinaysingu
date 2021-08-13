@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Namaskaram _/\_ 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am Vinay Kumar. I have 11+ years experience in Software Industry with 5+ years experience in Product Management.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am passionate about solving user problems with technology and creating products with Simplistic and Intuitive Design. I love everything about Product Management and on a quest to become better at it everyday.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Here to write about my learnings in my job, summarize the lastest books that I read or share about an interesting Tech topic that I am excited about.

@@ -16,7 +16,7 @@ Any choices in life like:
 
  * making a big investment - buying a Plot in Aparna Western Meadows vs giving out the money for 2% interest
  * choosing a career - taking the Campus placement offer vs going to US for MS
- * choosing a life partner - the good looking boy or girl from the matrimony site vs someone with sound property background :stuck_out_tongue:
+ * choosing a life partner - the good looking boy or girl from the matrimony site vs someone with sound property background
 
 ...you get the idea, the goal is to make a choice that has the least opportunity cost. 
 

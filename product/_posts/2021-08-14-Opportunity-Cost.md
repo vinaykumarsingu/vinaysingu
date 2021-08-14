@@ -14,9 +14,9 @@ As I read through one mental model after another that the author tied together, 
 
 Any choices in life like:
 
- * making a big investment - buying a Plot in Aparna Western Meadows vs giving out the money for 2% interest
+ * making a big investment - buying a Plot in Aparna Western Meadows vs giving out the money for 2% interest per month
  * choosing a career - taking the Campus placement offer vs going to US for MS
- * choosing a life partner - the good looking boy or girl from the matrimony site vs someone with sound property background
+ * choosing a life partner from the matrimony site - the good looking boy or girl vs someone with sound property background
 
 ...you get the idea, the goal is to make a choice that has the least opportunity cost. 
 
@@ -32,4 +32,4 @@ In Product Management, thinking about Opportunity cost would help a lot in makin
 
 Opportunity cost could thus help one in making the best use of their resources - time, money or effort by helping them think about what they could be choosing alternatively to achieve their objectives. 
 
-I write this article on a Saturday afternoong assuming this offers the least Opportunity cost for my team compared to watching Netflix or taking an afternoon nap. Hope reading it proved to be the same for your time!
+I write this article on a Saturday afternoong assuming this offers the least Opportunity cost for my time compared to watching Netflix or taking an afternoon nap. Hope reading it proved to be the same for your time!

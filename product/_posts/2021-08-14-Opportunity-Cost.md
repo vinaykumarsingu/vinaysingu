@@ -10,7 +10,7 @@ So, I too wanted to learn some mental models and bought a book which called itse
 
 As I read through one mental model after another that the author tied together, one that stood out for me and felt like something which will simplify the decision making in our life is 'Opportunity Cost'. 
 
-> Opportunity Cost is the cost of the alternative opportunity that you have missed by making your favorite choice
+> Opportunity Cost is the cost of the alternate opportunity that you have missed by making your favorite choice
 
 Any choices in life like:
 

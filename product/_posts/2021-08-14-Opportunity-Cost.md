@@ -16,13 +16,13 @@ Any choices in life like:
 
  * making a big investment - buying a Plot in Aparna Western Meadows vs giving out the money for 2% interest
  * choosing a career - taking the Campus placement offer vs going to US for MS
- * choosing a life partner - the good looking boy or girl from the matrimony site vs someone with sound property background
+ * choosing a life partner - the good looking boy or girl from the matrimony site vs someone with sound property background :stuck_out_tongue:
 
 ...you get the idea, the goal is to make a choice that has the least opportunity cost. 
 
 The cost need not also be just in terms of quantity like monetory value and time or effort saved. It could also be in terms of the quality that it offers to you as per your priorities. If having a worklife balance is your priority, you would choose the job with the least opportunity cost interms of the flexible working hours and peace of mind that it offers or if quality of life is your priority, you would choose a job in US/Europe inspite of getting a higher package in India.
 
-Opportunity cost in Product Management -
+**Opportunity cost in Product Management -**
 
 In Product Management, thinking about Opportunity cost would help a lot in making the right choice in the below two aspects:
 
@@ -32,4 +32,4 @@ In Product Management, thinking about Opportunity cost would help a lot in makin
 
 Opportunity cost could thus help one in making the best use of their resources - time, money or effort by helping them think about what they could be choosing alternatively to achieve their objectives. 
 
-Hope reading this little article about Opportunity cost has delivered the least Opportunity cost for your time and helps you achieving best value in your future efforts!
+I write this article on a Saturday afternoong assuming this offers the least Opportunity cost for my team compared to watching Netflix or taking an afternoon nap. Hope reading it proved to be the same for your time!

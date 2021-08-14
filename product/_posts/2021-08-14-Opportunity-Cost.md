@@ -20,7 +20,9 @@ Any choices in life like:
 
 ...you get the idea, the goal is to make a choice that has the least opportunity cost. 
 
-The cost need not also be just in terms of quantity like monetory value and time or effort saved. It could also be in terms of the quality that it offers to you as per your priorities. If having a worklife balance is your priority, you would choose the job with the least opportunity cost interms of the flexible working hours and peace of mind that it offers or if quality of life is your priority, you would choose a job in US/Europe inspite of getting a higher package in India.
+![img](/images/oppcost.png)
+
+The cost need not be just in terms of quantity like monetory value and time or effort saved. It could also be in terms of the quality that it offers to you as per your priorities. If having a worklife balance is your priority, you would choose the job with the least opportunity cost interms of the flexible working hours and peace of mind that it offers or if quality of life is your priority, you would choose a job in US/Europe inspite of getting a higher package in India.
 
 **Opportunity cost in Product Management -**
 

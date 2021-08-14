@@ -8,7 +8,11 @@ Charlie Munger - the famous investment partner of Warner Buffet, attributes most
 
 So, I too wanted to learn some mental models and bought a book which called itself "THE BIG BOOK" of mental models with an attractive title - Super Thinking.
 
-As I read through one mental model after another that the author tied together, one that stood out for me and felt like something which will simplify the decision making in our life is 'Opportunity Cost'. Opportunity Cost is the cost of the alternative option that you have missed by choosing your favorite option. Any choices in life like:
+As I read through one mental model after another that the author tied together, one that stood out for me and felt like something which will simplify the decision making in our life is 'Opportunity Cost'. 
+
+> Opportunity Cost is the cost of the alternative option that you have missed by choosing your favorite option
+
+Any choices in life like:
 
  * making a big investment - buying a Plot in Aparna Western Meadows vs giving out the money for 2% interest
  * choosing a career - taking the Campus placement offer vs going to US for MS

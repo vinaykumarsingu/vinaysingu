@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Feature with the Least Opportunity Cost"
-date:   2021-08-14 22:05:33 +0530
+date:   2021-08-14 14:00:33 +0530
 category: Product Management
 ---
 Charlie Munger - the famous investment partner of Warner Buffet, attributes most of his success to thinking in Mental Models.

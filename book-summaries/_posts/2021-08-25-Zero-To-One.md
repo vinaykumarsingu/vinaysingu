@@ -5,6 +5,14 @@ date:   2021-08-29 19:30:33 +0530
 category: Book Summaries
 ---
 
+After the acquisition of Paypal by Ebay, the founding team of Paypal has went on to found or invest in some of the best companies in America like Tesla, Youtube, Yelp, Pinterest to name a few.
+
+Famously known as the 'Paypal Mafia', Peter Theil is considered as the Don of this Mafia.
+
+His book 'Zero to One which he has co-written with Blake Masters is often regarding as one of best business books ever written for startup founders. 
+
+This article is the short summary of my learnings from the book:
+
 **Building 0 to 1 companies:**
 There are two types of progress: Horizontal progress and vertical progress 
 Horizontal progress is scaling something from 1 to 100.

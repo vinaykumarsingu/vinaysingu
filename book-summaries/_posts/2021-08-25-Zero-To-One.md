@@ -15,10 +15,13 @@ This article is the short summary of my learnings from the book:
 
 **Building 0 to 1 companies:**
 
-There are two types of progress: Horizontal progress and vertical progress 
-Horizontal progress is scaling something from 1 to 100.
-Vertical progress is going from zero to 1 which is basically making something that doesn’t exist.
-Technology is vertical progress. In a world of limited resources, globalization without technology progress is catastrophic. New technology comes from new ventures which are called Startups
+Mankind can make progress in two ways - Horizontal progress and vertical progress.
+* Horizontal progress is scaling something from 1 to 100.
+* Vertical progress is going from zero to 1 which is basically making something that doesn’t exist.Technology helps us achieve vertical progress.
+
+> In a world of limited resources, globalization without technology progress is catastrophic
+
+New technology comes from new ventures which are called Startups
 
 **Contrarian Thinking:**
 

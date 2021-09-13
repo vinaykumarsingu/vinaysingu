@@ -30,6 +30,9 @@ twitter_username: ProductIndian
 #github_username:  vinaysingu
 linkedin_username: vinaysingu
 
+#Google Analytics Tracking ID
+google_analytics: G-ZWEES4869R
+
 #New fields
 title-logo: /images/logo.png
 
@@ -40,6 +43,8 @@ plugins:
 
 plugins:
   - jekyll-seo-tag
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
